@@ -6,15 +6,13 @@ This repository showcases my work from the **DATA 2399: Workflow Automation with
 - Python scripting for automation
 - String manipulation and regular expressions
 - Web scraping using BeautifulSoup and pandas
-- File and task automation with Python
-- Using automation libraries (e.g., Schedule, Time)
+- File and task automation with Python and PyAutoGUI
 - Designing custom automation workflows
-- API automation and cloud task scheduling
 
 ## Tools & Technologies
 - Python, Jupyter Notebook
 - BeautifulSoup, pandas, re, os, shutil
-- APIs, automation libraries
+- Automation libraries (e.g., Schedule, Time)
 
 ## Highlights
 - Created a custom scraper to extract structured set data from a web source
