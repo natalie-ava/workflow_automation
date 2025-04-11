@@ -18,10 +18,10 @@ This repository showcases my work from the **DATA 2399: Workflow Automation with
 
 ## Highlights
 - Created a custom scraper to extract structured set data from a web source
-- Used pandas to clean and analyze product data
+- Used pandas to clean and analyze scraped data
 - Designed scripts to automate repeatable scraping and cleaning tasks
-- Applied regular expressions for targeted string cleaning and transformation
 - Automated email notifications using `smtplib` and `email.mime` to send formatted messages as part of workflow execution
+- Developed an [end-to-end holiday gift guide automation system](https://github.com/natalie-ava/workflow_automation/projects/LEGO_Final_Project.ipynb): scraped LEGO product data (name, price, age, rating, etc.) into a pandas DataFrame, saved to CSV using `os`, captured product images with `PyAutoGUI`, used `Pillow` and `ReportLab` to design custom posters, and scheduled automated emails to send gift suggestions to a potential buyer list.
 
 ## What I Learned
 This course taught me how to think like an automation designer. I learned how to break down tedious workflows and rebuild them with code. I developed a deeper understanding of how Python can be used not just for analysis, but for streamlining everyday digital tasks in meaningful ways.
