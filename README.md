@@ -20,11 +20,17 @@ This repository showcases my work from the **DATA 2399: Workflow Automation with
 - OCR & Translation: `pytesseract`, `Pillow`, `googletrans`
 
 ## Highlights
-- Created a custom scraper to extract structured set data from a web source
-- Used pandas to clean and analyze scraped data
-- Designed scripts to automate repeatable scraping and cleaning tasks
+- Applied regular expressions for targeted string cleaning and transformation
+- Integrated Python automation with OCR and translation tools to enable multilingual workflows
+- Automated Excel workbook creation and data entry using `openpyxl`
+- Created visualizations using `matplotlib` to highlight trends in product categories
+- Used PyAutoGUI to automate GUI-based tasks and screen interactions
+- Automated workflows involving data scraping, Excel manipulation, email delivery, and visual content generation
+
+## Projects 
 - Automated [email notifications](https://github.com/natalie-ava/workflow_automation/blob/main/projects/CA_email_automation.ipynb) using `smtplib` and `email.mime` to send personalized formatted messages with attachments as part of workflow execution
 - Built a [text extraction and translation workflow](https://github.com/natalie-ava/workflow_automation/blob/main/projects/Text_Extraction_and_Translation.ipynb) using `pytesseract`, `Pillow`, and `googletrans`: used Optical Character Recognition (OCR) to extract printed text from an image, then automatically translated it to English using the Google Translate API — demonstrating multilingual automation for accessibility, localization, and content adaptation use cases.
+- Designed a [Language Learning Email Automation](https://github.com/natalie-ava/workflow_automation/blob/main/projects/Language_Learning_Email.ipynb): used `PyAutoGUI` to organize input directories, `pytesseract` to extract foreign language phrases from images, and `googletrans` to translate them into English. Combined each phrase with a culturally relevant city photo and stored everything in a `pandas` DataFrame. Automated personalized email delivery using `smtplib`, `ssl`, `email.mime`, and `schedule` to send messages that included a phrase in a foreign language, the english translation, and a photo of a city where that language is predominantly spoken at a set time each day.
 - Developed an [end-to-end holiday gift guide automation system](https://github.com/natalie-ava/workflow_automation/blob/main/projects/LEGO_Final_Project.ipynb): scraped LEGO product data (name, price, age, rating, etc.) into a pandas DataFrame, saved to CSV using `os`, captured product images with `PyAutoGUI`, used `Pillow` and `ReportLab` to design custom posters, and scheduled automated emails to send gift suggestions to a potential buyer list.
 
 ## What I Learned
