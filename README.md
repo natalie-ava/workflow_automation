@@ -20,7 +20,7 @@ This repository showcases my work from the **DATA 2399: Workflow Automation with
 - OCR & Translation: `pytesseract`, `Pillow`, `googletrans`
 
 ## Highlights
-- Applied regular expressions for targeted string cleaning and transformation
+- Applied regular expressions for targeted [string cleaning and transformation](https://github.com/natalie-ava/workflow_automation/blob/main/projects/NHuang_exam1_09_26.ipynb)
 - Integrated Python automation with OCR and translation tools to enable multilingual workflows
 - [Excel workbook creation](https://github.com/natalie-ava/workflow_automation/blob/main/class_notes/NHuang_Excel_Chart.ipynb) and data entry using `openpyxl`
 - Created visualizations using `matplotlib` to highlight [trends in product categories](https://github.com/natalie-ava/workflow_automation/blob/main/class_notes/NHuang_grids_on_canvas.ipynb)
